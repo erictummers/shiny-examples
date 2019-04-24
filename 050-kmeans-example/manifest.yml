@@ -1,0 +1,5 @@
+applications:
+ - name: kmeans
+   instances: 1
+   memory: 256M
+   buildpack: https://github.com/cloudfoundry/r-buildpack.git
